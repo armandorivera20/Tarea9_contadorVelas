@@ -7,7 +7,7 @@ def candles(a: List[int]) -> int:
     Args:
         a (List[int]): The candles heights.
     
-    Returns:
+ Returns:
         int: The number of candles that are tallest.
     """
     # Encuentra la altura máxima de las velas
